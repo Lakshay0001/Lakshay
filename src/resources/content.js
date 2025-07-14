@@ -40,7 +40,7 @@ const social = [
   {
     name: "WhatsApp",
     icon: "whatsapp",
-    link: "https://www.threads.com/@once_ui",
+    link: `https://wa.me/${person.phone}`,
   },
   {
     name: "Email",
@@ -50,7 +50,7 @@ const social = [
   {
     name: "Call",
     icon: "phone",
-    link: "tel:+919034559192",
+    link: `tel:${person.phone}`,
   },
 ];
 
