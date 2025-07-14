@@ -9,6 +9,7 @@ const person = {
   role: "Developer",
   avatar: "/images/avatar.jpg",
   email: "lakshayabc000@gmail.com",
+  phone: "+919034559192",
   location: "India/Haryana", // Expecting the IANA time zone identifier, e.g., 'Europe/Vienna'
   languages: ["English", "Hindi"], // optional: Leave the array empty if you don't want to display languages
 };
