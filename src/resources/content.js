@@ -30,15 +30,15 @@ const social = [
   {
     name: "GitHub",
     icon: "github",
-    link: "https://github.com/once-ui-system/nextjs-starter",
+    link: "https://github.com/Lakshay0001",
   },
   {
     name: "LinkedIn",
     icon: "linkedin",
-    link: "https://www.linkedin.com/company/once-ui/",
+    link: "https://www.linkedin.com/in/mrlakshay",
   },
   {
-    name: "Whats App",
+    name: "WhatsApp",
     icon: "whatsapp",
     link: "https://www.threads.com/@once_ui",
   },
@@ -97,7 +97,7 @@ const about = {
   },
   calendar: {
     display: true,
-    link: "https://cal.com",
+    link: "https://calendly.com/lakshayabc000/30min",
   },
   intro: {
     display: true,
